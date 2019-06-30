@@ -3,6 +3,7 @@
 int main()
 {
   printf("Hello World\n");
+  printf("My name is lirongjin. I am a Chinese\n");
   
   return 0;
 }
